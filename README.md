@@ -1,12 +1,4 @@
 ## Theme
-<h3 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="80" alt="Fedora logo"/><br/>
-  Fedora Workstation
-</h3>
-
-<h6 align="center">
-  GNOME · Wayland · Mutter
-</h6>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fedora-OS-ffbde0?style=for-the-badge&logo=fedora&logoColor=ffffff" />
