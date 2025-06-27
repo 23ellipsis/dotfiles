@@ -1,7 +1,6 @@
 ## Theme
 <h3 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="80" alt="Fedora logo"/>
-  <br/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="80" alt="Fedora logo"/><br/>
   Fedora Workstation
 </h3>
 
@@ -10,10 +9,10 @@
 </h6>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fedora-OS-blue?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNOME-DE-4E9A06?style=for-the-badge&logo=gnome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wayland-Display-Protocol-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mutter-Window_Manager-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fedora-OS-ffbde0?style=for-the-badge&logo=fedora&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/GNOME-DE-cba6f7?style=for-the-badge&logo=gnome&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Wayland-Protocol-89b4fa?style=for-the-badge&logo=wayland&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Mutter-WM-94e2d5?style=for-the-badge" />
 </p>
 
 
