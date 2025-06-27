@@ -1,6 +1,6 @@
 ## Theme
 
-![](desktop/desktop4)
+![](./desktop/desktop4)
 ![](desktop/desktop1)
 ![](desktop/desktop2)
 ![](desktop/desktop3)
