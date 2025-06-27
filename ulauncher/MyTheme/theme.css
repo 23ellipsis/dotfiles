@@ -1,0 +1,103 @@
+/**
+ * App Window
+ */
+@define-color bg_color rgb(0, 8, 51);
+@define-color window_bg @bg_color;
+@define-color window_border_color rgb(57, 143, 240);
+@define-color prefs_backgroud rgb(4, 12, 52);
+
+/**
+ * Input
+ */
+@define-color selected_bg_color rgb(6, 4, 43);
+@define-color selected_fg_color rgb(206, 216, 255);
+@define-color input_color rgb(215, 228, 246);
+@define-color caret_color darker(@input_color);
+
+/**
+ * Result items
+ */
+@define-color item_name rgb(161, 161, 211);
+@define-color item_text @selected_fg_color;
+
+@define-color item_box_selected rgba(0, 10, 67, 0.8);
+@define-color item_text_selected rgb(124, 183, 255);
+@define-color item_name_selected rgb(136, 176, 255);
+
+@define-color item_shortcut_color rgb(181, 230, 244);
+@define-color item_shortcut_shadow darker(@bg_color);
+@define-color item_shortcut_color_sel rgb(116, 206, 255);
+@define-color item_shortcut_shadow_sel darker(@item_box_selected);
+
+.app {
+    background-color: @window_bg;
+    border: 2px solid @window_border_color;
+    border-radius: 30px;
+    margin: 0 -20px;
+}
+
+.input {
+    color: @input_color;
+    padding: 0px;
+    margin-left: 15px;
+    border-bottom: 1px solid alpha(@window_border_color,0.3);
+}
+
+/**
+ * Selected text in input
+ */
+.input *:selected,
+.input *:focus,
+*:selected:focus {
+    background-color: alpha (@selected_bg_color, 0.9);
+    color: @selected_fg_color;
+}
+
+.item-text {
+    color: @item_text;
+}
+.item-name {
+    color: @item_name;
+}
+
+.item-box {
+    border-bottom: 1px dashed alpha(@window_border_color, 0.1);
+}
+
+.selected.item-box {
+    background-color: @item_box_selected;
+    border-radius: 15px;
+}
+
+.selected.item-box .item-text {
+    color: @item_text_selected;
+}
+
+.selected.item-box .item-name {
+    color: @item_name_selected;
+}
+
+.item-shortcut {
+    color: @item_shortcut_color;
+    text-shadow: 1px 1px 1px @item_shortcut_shadow;
+}
+.selected.item-box .item-shortcut {
+    color: @item_shortcut_color_sel;
+    text-shadow: 1px 1px 1px @item_shortcut_shadow_sel;
+}
+
+.result-box {
+    margin: 0px 19px 0px 19px;
+}
+
+.prefs-btn {
+    opacity: 0.8;
+}
+.prefs-btn:hover {
+    background-color: @prefs_backgroud;
+}
+
+.no-window-shadow {
+    margin: -20px;
+}
+

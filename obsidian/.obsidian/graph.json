@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"01 - Content\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16639
+      }
+    },
+    {
+      "query": "path:Everything/Networking  ",
+      "color": {
+        "a": 1,
+        "rgb": 11752160
+      }
+    },
+    {
+      "query": "path:Everything/Linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 16474358
+      }
+    },
+    {
+      "query": "path:Everything/Tools  ",
+      "color": {
+        "a": 1,
+        "rgb": 7559422
+      }
+    },
+    {
+      "query": "path:Everything/Hacking  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Everything/Cryptography  ",
+      "color": {
+        "a": 1,
+        "rgb": 708351
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 0.719950602037666,
+  "lineSizeMultiplier": 0.836437171966656,
+  "collapse-forces": false,
+  "centerStrength": 0.394504476690337,
+  "repelStrength": 7.9061438715653,
+  "linkStrength": 1,
+  "linkDistance": 98,
+  "scale": 0.09003274235219565,
+  "close": true
+}

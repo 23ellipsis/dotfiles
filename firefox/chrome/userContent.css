@@ -1,0 +1,80 @@
+@-moz-document url(about:home), url(about:newtab), url(about:privatebrowsing) {
+    .click-target-container *, .top-sites-list * {
+        color: #fff !important ;
+        text-shadow: 2px 2px 2px #222 !important ;
+    }
+
+    body::before {
+        content: "" ;
+        z-index: -1 ;
+        position: fixed ;
+        top: 0 ;
+        left: 0 ;
+        background: #f9a no-repeat url(./firefoxWallpaper.png) center ;
+        background-size: cover ;
+        width: 100vw ;
+        height: 100vh ;
+    }
+ 
+}
+
+@-moz-document url(about:newtab), url(about:home){
+  .logo-and-wordmark > .logo{
+   background-image: url("logo.png") !important;
+   }
+   .logo-and-wordmark{
+   position: relative;
+   top: -100px;          
+  }
+   .search-inner-wrapper{
+   position: relative;
+   top: -130px;
+   }
+   /* shifts the logo and search bar a lil upwards */
+   
+ .search-wrapper .search-handoff-button,.search-wrapper input {
+  background: rgba(28, 29, 60, 0.81) !important;
+  /* removes the duckduckgo logo and edits the search bar color */
+}
+
+@-moz-document url(about:home), url(about:newtab), url(about:privatebrowsing) {
+    .click-target-container *, .top-sites-list * {
+        font-size: 0 /* Makes the text invisible */
+    }
+    .top-site-button{
+    height: 0px !important;
+    width: 0px !important;
+    }
+    .top-site-inner{
+    height: 0px !important;
+    width: 0px !important;
+    }
+    .context-menu-button.icon{
+    visibility: hidden !important;
+    }
+    .icon.icon-pin-small{
+    height: 0px !important;
+    width: 0px !important;
+    }
+    .top-site-icon.default-icon{
+    height: 80px !important;
+    width: 80px !important;
+    }
+    .top-site-outer .tile{
+    top: -130px !important;
+    right: -17px !important;
+    background-color: rgba(0, 0, 0, 0) !important;
+    }
+    .tile{
+    height: 40px !important;
+    width: 40px !important;
+    }
+    .top-site-outer .top-site-icon{
+    background-color: rgba(0, 0, 0, 0) !important;
+    }
+}
+
+
+    
+    
+    

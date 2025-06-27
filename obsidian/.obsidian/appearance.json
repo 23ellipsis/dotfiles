@@ -1,0 +1,12 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "accentColor": "#5716fe",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "floating-search-bar",
+    "custom-rainbow-colors"
+  ],
+  "showRibbon": false,
+  "showViewHeader": true
+}

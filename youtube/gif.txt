@@ -1,0 +1,25 @@
+/* ==UserStyle==
+@name         youtube nyan cat background
+@namespace    USO Archive
+@author       vaslie223
+@description  nyan (TESTING)
+@version      20230222.09.40
+@license      NONE
+@preprocessor uso
+==/UserStyle== */
+
+@-moz-document domain("youtube.com"),
+               regexp("http(s?)://[^/]*\\.youtube(\\.com)?(\\.[a-z][a-z])?/.*"),
+               regexp("http(s?)://youtube(\\.com)?(\\.[a-z][a-z])?/.*") {
+
+  ytd-app[darker-dark-theme],
+  ytd-app {
+    background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNneWI2YzdqdjdydDJzdDdlNmc4ejZyMXNjMG1tYzByc29pdTV5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lQsh0iOvne52yA/giphy.gif") !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center center !important;
+    background-size: 300px 300px !important;  /* smaller fixed size */
+  }
+
+}
+

@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "73e82e759259504c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2410c4edfd2348a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5903190b7113bfe5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "685c59f87cfdd51c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4412d82b67a540e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ca3fab6fd30c88d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a54a535aece20e2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "df077f3167b811b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "96d7edd082791568",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fdbe11460e00b72",
+        "type": "tabs",
+        "dimension": 46.75324675324675,
+        "children": [
+          {
+            "id": "49b1c227ecfcefba",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "2f808668415a996d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Everything/Programming/Operators (python).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Operators (python)"
+            }
+          },
+          {
+            "id": "b8b3714c0bae7cc4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f88bf593259df0fa",
+        "type": "tabs",
+        "dimension": 53.246753246753244,
+        "children": [
+          {
+            "id": "ede4380afb5a6aa7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "razors and whatnot.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for razors and whatnot"
+            }
+          },
+          {
+            "id": "eea440d537a0f7f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b91fbdbcced73d89",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "graph:Open graph view": false,
+      "obsidian-rich-links:Rich Links": false
+    }
+  },
+  "active": "5903190b7113bfe5",
+  "lastOpenFiles": [
+    "Everything/Tools/smbclient.md",
+    "01 - Content/MISC.md",
+    "01 - Content/Computer Architecture.md",
+    "01 - Content/Anonymity.md",
+    "Everything/bling bling/Determining the Number Of Columns Returned by a Query.md",
+    "Everything/bling bling/SQL Injection.md",
+    "01 - Content/bling bling.md",
+    "Everything/Anonymity/How Hidden Services Work.md",
+    "Everything/Networking/Samba.md",
+    "Everything/Windows/64 vs 32 bit Architecture.md",
+    "Everything/Computer Systems/Cache Matters.md",
+    "08 - Other/Conversing with Plague.md",
+    "Everything/bling bling/Windows Powershell.md",
+    "Everything/Computer Architecture/FAT and NFTs.md",
+    "01 - Content/Cryptography.md",
+    "01 - Content/Linux.md",
+    "Everything/Computer Architecture/The CPU.md",
+    "Everything/Operating Systems/Introduction To Operating Systems.md",
+    "01 - Content/Operating Systems.md",
+    "Everything/Linux/Text Manipulation.md",
+    "01 - Content/Computer Systems.md",
+    "01 - Content/Networking.md",
+    "Everything/Linux/Analyzing and Managing Networks.md",
+    "Everything/Computer Systems/Programs Are Translated by Other Programs into Different Forms.md",
+    "Everything/Computer Systems/Storage Devices From a Hierarchy.md",
+    "08 - Other/right.md",
+    "05 - Assets/Pasted image 20250527203355.png",
+    "05 - Assets/Pasted image 20250429204544.png",
+    "05 - Assets/Pasted image 20250429200949.png",
+    "05 - Assets/Pasted image 20250429135613.png",
+    "Everything/MISC",
+    "05 - Assets/Pasted image 20250428174417.png",
+    "05 - Assets/Pasted image 20250428174135.png",
+    "05 - Assets/Pasted image 20250427225211.png",
+    "05 - Assets/Pasted image 20250427220417.png",
+    "05 - Assets/Pasted image 20250427180617.png",
+    "05 - Assets/Pasted image 20250427175851.png",
+    "Everything/Computer Systems",
+    "case study 2.canvas",
+    "Everything/Networking/Subnetting.canvas",
+    "Everything/Operating Systems",
+    "'05 - Assets'",
+    "Everything/Cryptography/TLS Handshake.canvas",
+    "Everything/Windows",
+    "Everything/Tools/Untitled",
+    "00 - Revisits",
+    "Everything/HTU stuff/STEM",
+    "Everything/HTU stuff/STEM",
+    "05 - Calender",
+    "Everything/Cryptography/TLS handshake2.canvas",
+    "Everything/Web Applications/Web Application Pentesting.canvas"
+  ]
+}
