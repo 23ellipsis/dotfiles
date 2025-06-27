@@ -1,11 +1,11 @@
 ## Theme
 
-![](./desktop/desktop4)
-![](desktop/desktop1)
-![](desktop/desktop2)
-![](desktop/desktop3)
-![](desktop/desktop5)
-![](desktop/desktop6)
+![](./desktop/desktop4.png)
+![](desktop/desktop1.png)
+![](desktop/desktop2.png)
+![](desktop/desktop3.png)
+![](desktop/desktop5.png)
+![](desktop/desktop6.png)
 
 ### Dependencies
 - Pywal (https://github.com/dylanaraps/pywal)
