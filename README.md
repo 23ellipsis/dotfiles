@@ -1,10 +1,10 @@
 ## Theme
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fedora-OS-ea02de?style=for-the-badge&logo=fedora&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/GNOME-DE-9002dd?style=for-the-badge&logo=gnome&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Wayland-Protocol-2302dd?style=for-the-badge&logo=wayland&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Mutter-WM-02b1dd?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fedora-OS-ea02de?style=for-the-badge&logo=fedora&logoColor=ffffff&colorA=050023" />
+  <img src="https://img.shields.io/badge/GNOME-DE-9002dd?style=for-the-badge&logo=gnome&logoColor=ffffff&colorA=050023" />
+  <img src="https://img.shields.io/badge/Wayland-Protocol-2302dd?style=for-the-badge&logo=wayland&logoColor=ffffff&colorA=050023" />
+  <img src="https://img.shields.io/badge/Mutter-WM-02b1dd?style=for-the-badge&colorA=050023" />
 </p>
 
 
