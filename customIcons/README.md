@@ -1,4 +1,4 @@
-### Logo Theming
+### Custom Icons
 
 For any app icon you would like to change, you must find the `.desktop` file responsible for creating a desktop shortcut for that app.
 You can do so using `find / -name '*[App Name]*.desktop' 2>/dev/null` 
