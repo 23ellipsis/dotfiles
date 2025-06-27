@@ -1,9 +1,9 @@
 ## Theme
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Fedora-ea02de?style=for-the-badge&logo=fedora&logoColor=ffffff&colorA=050023" />
-  <img src="https://img.shields.io/badge/DE-GNOME-9002dd?style=for-the-badge&logo=gnome&logoColor=ffffff&colorA=050023" />
-  <img src="https://img.shields.io/badge/Protocol-Wayland-2302dd?style=for-the-badge&logo=wayland&logoColor=ffffff&colorA=050023" />
-  <img src="https://img.shields.io/badge/WM-Mutter-02b1dd?style=for-the-badge&colorA=050023" />
+  <img src="https://img.shields.io/badge/OS-Fedora-050023-ea02de?style=for-the-badge&logo=fedora&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/DE-GNOME-050023-9002dd?style=for-the-badge&logo=gnome&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Protocol-Wayland-050023-2302dd?style=for-the-badge&logo=wayland&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/WM-Mutter-050023-02b1dd?style=for-the-badge&logoColor=ffffff" />
 </p>
 
 ![](./desktop/desktop4.png)
