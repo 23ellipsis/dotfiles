@@ -21,6 +21,6 @@ mp3() {
 
 # stops the firefox fedora startup page from popping up after an update
 alias firefoxStfu='sudo rm -f /usr/lib64/firefox/browser/defaults/preferences/firefox-redhat-default-prefs.js'
-alias obsidian='flatpak run md.obsidian.Obsidian'
+
 
 
